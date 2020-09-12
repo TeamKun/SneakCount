@@ -1,0 +1,4 @@
+name: SneakCount
+version: ${project.version}
+main: net.teamfruit.sneakcount.SneakCount
+api-version: 1.15
